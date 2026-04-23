@@ -14,6 +14,8 @@ A decentralized marketplace built on the Stellar (Soroban) network for buying an
 Contract link: https://stellar.expert/explorer/testnet/contract/CBIZROXJ7R5M7ENRNSUWSXMMUDWG3WR6F7WIU3EXNUGNVT47ZF3JQNII
 
 ![Contract Screenshot]
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/273321bd-025a-4e84-a150-4d1728ba09f9" />
+
 
 # Future scopes
 - Build a user-friendly frontend interface using React.js and connect it with the Freighter wallet.
@@ -23,4 +25,4 @@ Contract link: https://stellar.expert/explorer/testnet/contract/CBIZROXJ7R5M7ENR
 # Profile
 - Name: [Điền Tên Của Bạn Vào Đây]
 - Skills: Rust, Smart Contracts, Stellar/Soroban Ecosystem.
-- Social: [Link LinkedIn hoặc GitHub của bạn]
+- Social: (https://github.com/nqhia26)
